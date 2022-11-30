@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "La Navi Nails",
+        "slug"      : "La-navi-nails",
+        "phone"     : "(401) 767-2743",
+        "email"     : "kevintrinh1220@gmail.com",
+        "address"   : "800 Providence St, Woonsocket, Rhode Island 02895",
+        "time_1"    : "Mon - Sat: 09:00 AM - 07:00 PM",
+        "time_2"    : "Sun: 10:30 AM - 04:00 PM"
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/lanavinails.RI",
+        "instagram" :   "https://www.instagram.com/la_navi_nails",
+        "google"    :   "https://goo.gl/maps/rUHxujPmZQBnu7NW7", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDk3OTN8bGFuYXZpODAwfFJJXzA4MTQ4fDdjZmZmMWE1YzRlNzIxYjllMDUwYTZjODAyNzdkODgw",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2965.665076185458!2d-71.52386144857627!3d41.98600016653122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e46a63d20f28a3%3A0xf46b7bb20f867072!2sLa%20Navi%20Nails!5e0!3m2!1sen!2s!4v1669793035191!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#565656",
+        "primary_light"         :   "#212121",
+        "primary_hover"         :   "#eaeaea",
+        "secondary"             :   "#90C73E",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
